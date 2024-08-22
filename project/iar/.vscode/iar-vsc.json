@@ -1,0 +1,16 @@
+{
+  "workspace": {
+    "path": "${workspaceFolder}\\SmartCar_czx.eww"
+  },
+  "workspaces": {
+    "${workspaceFolder}\\SmartCar_czx.eww": {
+      "configs": {},
+      "selected": {
+        "path": "${workspaceFolder}\\program\\rt1064.ewp"
+      }
+    }
+  },
+  "workbench": {
+    "path": "E:\\IAR Systems\\Embedded Workbench 9.2"
+  }
+}
